@@ -68,7 +68,7 @@ email: "vsmioto@gmail.com"
 highlight_name: false
 ---
 
-Vinícius Mioto is a student of Computer Science at Federal University of Paraná. He is currently working as a Researcher at PET Computação - UFPR. His research interests include Artificial Intelligence, Data Science, Web and Mobile Apps Development and Human-Computer Interaction.
+Vinícius Mioto is a student of Computer Science at Federal University of Paraná. He is currently working as a Researcher at PET Computação - UFPR. 
 
 
 
