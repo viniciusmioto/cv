@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://web.inf.ufpr.br/pet/"
   location = "Curitiba"
   date_start = "2020-10-30"
-  date_end = ""
-  description = """
+  
 
 [[experience]]
   title = "Apprentice"
