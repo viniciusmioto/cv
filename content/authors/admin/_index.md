@@ -10,7 +10,7 @@ role: Computer Science student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Federal University of Paraná
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,7 +30,7 @@ education:
     institution: Federal Institute of Paraná (IFPR)
     year: 2016
   - course: BSc in Computer Science
-    institution: Federal University of Paraná
+    institution: Federal University of Paraná (UFPR)
     year: 2020
 
 
