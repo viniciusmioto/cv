@@ -11,7 +11,7 @@ role: Computer Science student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Federal University of Paraná
-  url: https://www.stanford.edu/
+  url: https://www.ufpr.br/portalufpr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence, Data Science, Web and Mobile Apps Development and Human-Computer Interaction.
