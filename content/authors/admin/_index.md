@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-  - icon: lattes
+- icon: lattes
   icon_pack: fab
   link: https://twitter.com/vinemioto
 - icon: github
