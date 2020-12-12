@@ -6,10 +6,10 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Vinícius Mioto"
 
 # The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+# End your URL with a `/` trailing slash, e.g. `https://viniciusmioto.github.io/portfolio/`.
 baseurl = ""
 
 # Enter a copyright notice to display in the site footer.
