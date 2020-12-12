@@ -93,9 +93,9 @@ email = "vsmioto@gmail.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/vsmioto"},
-  {icon = "instagram", icon_pack = "fab", name = "Chat on Keybase", link = "https://instagram.com/vsmioto"},
-  {icon = "facebook", icon_pack = "fab", name = "Chat on Keybase", link = "https://www.facebook.com/vinemiotoo"},
+  {icon = "twitter", icon_pack = "fab", name = "@vsmioto", link = "https://twitter.com/vsmioto"},
+  {icon = "instagram", icon_pack = "fab", name = "@vsmioto", link = "https://instagram.com/vsmioto"},
+  {icon = "facebook", icon_pack = "fab", name = "Vinícius Mioto", link = "https://www.facebook.com/vinemiotoo"},
   ]
 
 ############################
@@ -106,7 +106,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "vsmioto"
 
 ############################
 ## Regional Settings
