@@ -11,11 +11,11 @@ authors:
 author_notes:
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +24,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Federal University of Paraná*
+publication_short: In *UFPR*
 
-abstract: Just start working here
+abstract: Just start working here...
 # Summary. An optional shortened abstract.
 summary: Research
 
@@ -53,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://redacaonline.com.br/blog/wp-content/uploads/2018/02/ufpr-816x453.png)'
+  caption: 'Image credit: [**Lukas**](https://images.pexels.com/photos/669613/pexels-photo-669613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)'
   focal_point: ""
   preview_only: false
 
@@ -72,13 +72,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
