@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Curitiba"
   date_start = "2020-10-30"
     description = """
-  * Scietific Research
+  * Scientific Research
   * Academic Projects
   """
 
