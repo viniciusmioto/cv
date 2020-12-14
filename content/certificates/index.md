@@ -1,4 +1,4 @@
-image:
+image: wizard.jpg
   placement: 1
   caption: "Photo by [Academic](./wizard.jpg)"
   focal_point: "Center"
