@@ -24,17 +24,18 @@ date_format = "Jan 2006"
   company_url = "https://web.inf.ufpr.br/pet/"
   location = "Curitiba"
   date_start = "2020-10-30"
+* Scietific Research
+* Academic Projects
   
 
 [[experience]]
   title = "Apprentice"
-  company = "Herbarium"
+  company = "Herbarium Botanical Laboratory"
   company_url = "https://herbarium.com.br/en/"
   location = "Colombo"
   date_start = "2017-11-06"
   date_end = "2019-02-01"
   description = """
-  
   * Marketing
   * Regulatory Affairs
   """
