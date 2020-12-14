@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-10-30"
 * Scietific Research
 * Academic Projects
-  
+  """
 
 [[experience]]
   title = "Apprentice"
