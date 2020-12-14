@@ -44,7 +44,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/vinemioto
+  link: https://twitter.com/vsmioto
 - icon: github
   icon_pack: fab
   link: https://github.com/viniciusmioto
@@ -53,7 +53,7 @@ social:
   link: https://br.linkedin.com/in/vin%C3%ADcius-mioto-3aaa37145
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/vinemioto/
+  link: https://www.instagram.com/vsmioto/
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
