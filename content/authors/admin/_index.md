@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
 icon: cv
 icon_pack: ai
-link: media/resume.pdf
+link: static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "vsmioto@gmail.com"
@@ -72,4 +72,4 @@ Vinícius Mioto is a student of Computer Science at Federal University of Paran�
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

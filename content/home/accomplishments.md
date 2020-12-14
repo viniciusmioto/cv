@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Wizard"
   organization_url = "https://www.wizard.com.br/"
-  title = "English- Immediate Conversation"
+  title = "English - Immediate Conversation"
   url = ""
   certificate_url = "assets/images/wizard.jpeg"
   date_start = "2017-03-02"
