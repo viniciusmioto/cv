@@ -72,4 +72,4 @@ Vinícius Mioto is a student of Computer Science at Federal University of Paran�
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/viniciusmioto/portfolio/blob/master/curriculum-vinicius-mioto.pdf" "newtab" >}}resumé{{< /staticref >}}.
