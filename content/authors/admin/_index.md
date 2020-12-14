@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
 icon: cv
 icon_pack: ai
-link: static/media/resume.pdf
+link: https://github.com/viniciusmioto/portfolio/blob/master/curriculum-vinicius-mioto.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "vsmioto@gmail.com"
