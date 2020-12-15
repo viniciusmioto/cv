@@ -9,7 +9,7 @@ date: "2020-05-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Home screen
+  caption: Pexels
   focal_point: Smart
 
 links:
@@ -29,7 +29,15 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-This app allows coaches and athletes manage their activies. They can communicate each other, view posts, like photos and see thei competitions.
+## The Project
+This app allows coaches and athletes manage their activies. They can communicate each other, view posts, like photos and see their competitions.
 SportIF helps to organize important dates such as training sessions, events and championships.
+## Frameworks
+* Flutter
+* Firebase
+
+## Repository
+You can view the project on GitHub: 
+* [SportIF Repository](https://github.com/viniciusmioto/sportif)
+
 It was developed for Institute Federal of Paraná.
