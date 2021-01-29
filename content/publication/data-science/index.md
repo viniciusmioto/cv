@@ -3,11 +3,11 @@
 
 title: "Data Science"
 authors: []
-date: 2020-12-14T18:18:13-03:00
+date: 2021-01-14T18:18:13-03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-14T18:18:13-03:00
+publishDate: 2021-02-20T18:18:13-03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
