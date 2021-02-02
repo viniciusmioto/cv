@@ -1,5 +1,5 @@
 ---
-title: SportIF
+title: IFPR Sports
 summary: Sports activies mobile app
 tags:
 - Mobile App Development with Flutter
@@ -30,8 +30,8 @@ url_video: ""
 slides: example
 ---
 ## The Project
-This app allows coaches and athletes manage their activies. They can communicate each other, view posts, like photos and see their competitions.
-SportIF helps to organize important dates such as training sessions, events and championships.
+IFPR Sports is a mobile App that allows coaches and athletes manage their activies. They can communicate each other, view posts, like photos and see their competitions.
+SportIF helps to organize important dates such as training sessions, events and championships. It can be downloaded in Android and iOS.
 ## Frameworks
 * Flutter
 * Firebase
