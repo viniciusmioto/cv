@@ -41,4 +41,16 @@ date_format = "Jan 2006"
   * Regulatory Affairs
   """
 
+  [[experience]]
+  title = "Teaching Assistant in Mathematics"
+  company = "Federal Institute of Paraná"
+  company_url = "https://colombo.ifpr.edu.br/"
+  location = "Colombo"
+  date_start = "2017-04-20"
+  date_end = "2017-11-01"
+  description = """
+  * 10th grade
+  * Supervisor: Prof. Juliana Bontorin Gusso
+  """
+
 +++
