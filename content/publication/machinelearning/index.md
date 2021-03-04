@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Data Science"
+title: "Machine Learning"
 authors: []
-date: 2021-02-01T20:00:08-03:00
+date: 2021-03-04T16:35:18-03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-02-01T20:00:08-03:00
+publishDate: 2021-03-04T16:35:18-03:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -50,7 +50,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Center"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
