@@ -14,7 +14,7 @@ organizations:
   url: https://www.ufpr.br/portalufpr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Data Science, Web and Mobile Apps Development and Human-Computer Interaction.
+bio: My research interests include Artificial Intelligence, Data Science, Machine Learning, Web and Mobile Apps Development.
 
 # Interests to show in About widget
 interests:
@@ -42,18 +42,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: gitlab
   icon_pack: fab
-  link: https://twitter.com/vsmioto
+  link: https://gitlab.com/viniciusmioto
 - icon: github
   icon_pack: fab
   link: https://github.com/viniciusmioto
 - icon: linkedin
   icon_pack: fab
   link: https://br.linkedin.com/in/vin%C3%ADcius-mioto-3aaa37145
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/vsmioto/
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/8195935355016860
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -68,7 +68,7 @@ email: "vsmioto@gmail.com"
 highlight_name: false
 ---
 
-Vinícius Mioto is a student of Computer Science at Federal University of Paraná. He is currently working as a Researcher at PET Computação - UFPR. For more details, you can read [Lattes Curriculum](http://lattes.cnpq.br/8195935355016860).
+Vinícius Mioto is a student of Computer Science at Federal University of Paraná. He is currently working as a Researcher at PET Computação - UFPR. View  [Portuguese Page](https://viniciusmioto.github.io/portfolio/). 
 
 
 

@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   date_start = "2017-04-20"
   date_end = "2017-11-01"
   description = """
-  * 10th grade
+  * High School
   * Supervisor: Prof. Juliana Bontorin Gusso
   """
 
