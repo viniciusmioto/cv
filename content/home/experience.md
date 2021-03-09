@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   location = "Curitiba"
   date_start = "2020-10-30"
     description = """
-  * Scientific Research
   * Academic Projects
+  * Undergraduate Research: Machine Learning
   """
 
 [[experience]]
@@ -46,11 +46,10 @@ date_format = "Jan 2006"
   company = "Federal Institute of Paraná"
   company_url = "https://colombo.ifpr.edu.br/"
   location = "Colombo"
-  date_start = "2017-04-20"
+  date_start = "2017-08-20"
   date_end = "2017-11-01"
   description = """
   * High School
-  * Supervisor: Prof. Juliana Bontorin Gusso
   """
 
 +++
