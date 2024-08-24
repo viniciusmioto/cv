@@ -1,23 +1,44 @@
 ---
-title: 'An example conference paper'
+title: 'ADEGA: Análise de Dados Estatísticos da Grade Acadêmica'
+
+# bibtex
+
+# @article{Sodré_Meyer_Junior_Margotte_de Miranda_Junior_de Andrade_Valadares_Mioto_2021, 
+#   title={ADEGA: Análise de Dados Estatísticos da Grade Acadêmica}, volume={5}, url={https://periodicos.ufsm.br/coming/article/view/67933}, 
+#   DOI={10.5902/2448190467933}, 
+#   number={3}, 
+#   journal={Revista ComInG - Communications and Innovations Gazette}, 
+#   author={Sodré, Ana Paula Andrade and Meyer, Bruno Henrique and Junior, Bruno Müller and Margotte, Henrique and de Miranda, Matheus Paolini and Junior, Odair Mario Ditkun and de Andrade, Pedro Pasqualini and Valadares, Tiago Serique and Mioto, Vinicius}, 
+#   year={2021}, 
+#   month={nov.}, 
+#   pages={55–64} 
+# }
+
+
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Ana Paula Andrade Sodré
+  - Bruno Henrique Meyer
+  - Bruno Müller Junior
+  - Henrique Margotte
+  - Matheus Paolini de Miranda
+  - Odair Mario Ditkun Junior
+  - Pedro Pasqualini de Andrade
+  - Tiago Serique Valadares
+  - Vinícius Mioto
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2021-11-17T00:00:00Z'
+doi: 'https://doi.org/10.5902/2448190467933'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-11-17T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +46,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: '*Revista ComInG - Communications and Innovations Gazette*'
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper describes the ADEGA system (Academic Grid Statistical Data Analysis). The academics management systems, applications used by educational institutions to monitor students academically, usually don’t provide greater functionality than a repository of student grades and attendance. Therefore, ADEGA aims to assist in the management of higher education institution’s course coordination, it uses the history of grades and attendance to provide data and graphics with relevant information that don’t usually are included in other systems, like a risk of academic retirement’s list, a comparative chart of failures by subjects, among others.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper was published in Portuguese (BR). Análise de Dados Estatísticos da Grade Acadêmica (ADEGA).
 
 tags:
-  - Large Language Models
+  - Data Science
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,19 +65,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: './publication/conference-paper/adega.pdf'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: 'https://www.youtube.com/watch?v=rHEr_MmOqfw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -76,12 +97,4 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+This paper was published in Portuguese (BR). Análise de Dados Estatísticos da Grade Acadêmica (ADEGA).

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Vinícius Mioto</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu10762989417876225641.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>ADEGA: Análise de Dados Estatísticos da Grade Acadêmica</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;p&gt;This paper was published in Portuguese (BR). Análise de Dados Estatísticos da Grade Acadêmica (ADEGA).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Vinícius Mioto</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu10762989417876225641.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Automated Game Testing</title>
+      <link>/project/automated_game_testing/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/project/automated_game_testing/</guid>
+      <description>&lt;p&gt;This research project explores the validation, investigation, and improvement of the Xumes framework, which integrates Behavior-Driven Development (BDD) with Reinforcement Learning (RL) for video game testing.&lt;/p&gt;
+&lt;p&gt;The study aims to advance game testing methodologies, particularly within the Godot Engine, by developing a comprehensive suite of tools and strategies that enhance the reliability and thoroughness of game quality assurance.&lt;/p&gt;
+&lt;h2 id=&#34;advisor&#34;&gt;Advisor&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fabiopetrillo.com&#34;&gt;Fabio Petrillo, Ph.D.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
+&lt;h3 id=&#34;1-xumes-framework-validation&#34;&gt;1. &lt;strong&gt;Xumes Framework Validation&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The framework was tested in a practical context by developing a new game, &lt;strong&gt;Royal Knight&lt;/strong&gt;, using the Godot Engine. This &amp;ldquo;toy game&amp;rdquo; facilitated various testing scenarios that highlighted the strengths and limitations of Xumes.&lt;/li&gt;
+&lt;li&gt;Manual and automated testing were applied, with initial focus on validating test scripts manually before introducing RL agents for more advanced testing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-behavior-driven-development-bdd&#34;&gt;2. &lt;strong&gt;Behavior-Driven Development (BDD)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The study emphasizes the importance of BDD in creating clear and reusable test scenarios. Scenarios were written in Gherkin language, promoting better collaboration between developers, testers, and stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-reinforcement-learning-challenges&#34;&gt;3. &lt;strong&gt;Reinforcement Learning Challenges&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;While integrating RL into automated testing showed potential, several challenges were encountered, particularly in communication between the RL agents and the game engine. These challenges highlight the need for further improvements in the framework&amp;rsquo;s core components.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-testing-complex-games&#34;&gt;4. &lt;strong&gt;Testing Complex Games&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The project also explored testing more complex 3D games, like &lt;strong&gt;Super Tux Party&lt;/strong&gt;, revealing the necessity for automation in setting up pre-game conditions to streamline testing processes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-comparison-of-automated-game-testing-tools&#34;&gt;5. &lt;strong&gt;Comparison of Automated Game Testing Tools&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The paper provides a comparison of different automated game testing tools across various game engines (Unity, Unreal, Godot), highlighting their features, supported platforms, and limitations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;future-work&#34;&gt;Future Work&lt;/h2&gt;
+&lt;p&gt;Future research will focus on enhancing Xumes&amp;rsquo; communication capabilities, simplifying scripting processes, and extending its application to more complex game genres. Additionally, a comprehensive study of existing automated game testing tools will be conducted to evaluate their effectiveness and identify potential innovations in game testing methodologies.&lt;/p&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Royal Knight Code&lt;/strong&gt;: &lt;a href=&#34;https://github.com/viniciusmioto/royal_knight&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Xumes Framework Documentation&lt;/strong&gt;: &lt;a href=&#34;https://xumes.readthedocs.io/en/latest/&#34;&gt;Read the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;This summary provides a concise overview of the paper&amp;rsquo;s contents for the README file, focusing on key aspects and future directions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Network Analysis</title>
+      <link>/project/network_analysis/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/project/network_analysis/</guid>
+      <description>&lt;p&gt;I started this undergraduate research project in 2021 by studying the paper &lt;a href=&#34;http://www.inf.ufpr.br/amlima/eniac2019.pdf&#34;&gt;&amp;ldquo;Recognizing Power-law Graphs by Machine Learning Algorithms using a Reduced Set of Structural Features&amp;rdquo;&lt;/a&gt; written by &lt;a href=&#34;https://www.inf.ufpr.br/amlima/&#34;&gt;Alane Marie de Lima&lt;/a&gt;, &lt;a href=&#34;https://www.inf.ufpr.br/vignatti/&#34;&gt;André Luis Vignatti&lt;/a&gt; and &lt;a href=&#34;https://www.inf.ufpr.br/murilo/&#34;&gt;Murilo Vicente Gonçalves da Silva&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have been studying some machine learning algorithms from &lt;a href=&#34;https://scikit-learn.org/stable/&#34;&gt;scikit-learn&lt;/a&gt; library as KNN, SVM, Gradient Boosting and Random Forests. I made some experiments with &lt;a href=&#34;https://networkx.org/&#34;&gt;NetworkX&lt;/a&gt; in order to understand how we can work with networks in computers. I am using &lt;a href=&#34;https://github.com/MLDroid/graph2vec_tf&#34;&gt;graph2vec&lt;/a&gt; framework for graph embedding.&lt;/p&gt;
+&lt;h3 id=&#34;advisors&#34;&gt;Advisors&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inf.ufpr.br/vignatti/&#34;&gt;André Luís Vignatti&lt;/a&gt;, PhD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inf.ufpr.br/amlima/&#34;&gt;Alana Marie de Lima&lt;/a&gt;, MSc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;experiments&#34;&gt;Experiments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/viniciusmioto/social_network_analysis&#34;&gt;Repository (GitHub)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

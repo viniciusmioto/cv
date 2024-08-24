@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Vinícius Mioto</title>
+    <link>/tags/data-science/</link>
+      <atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu10762989417876225641.png</url>
+      <title>Data Science</title>
+      <link>/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Social Network Analysis</title>
+      <link>/project/network_analysis/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/project/network_analysis/</guid>
+      <description>&lt;p&gt;I started this undergraduate research project in 2021 by studying the paper &lt;a href=&#34;http://www.inf.ufpr.br/amlima/eniac2019.pdf&#34;&gt;&amp;ldquo;Recognizing Power-law Graphs by Machine Learning Algorithms using a Reduced Set of Structural Features&amp;rdquo;&lt;/a&gt; written by &lt;a href=&#34;https://www.inf.ufpr.br/amlima/&#34;&gt;Alane Marie de Lima&lt;/a&gt;, &lt;a href=&#34;https://www.inf.ufpr.br/vignatti/&#34;&gt;André Luis Vignatti&lt;/a&gt; and &lt;a href=&#34;https://www.inf.ufpr.br/murilo/&#34;&gt;Murilo Vicente Gonçalves da Silva&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have been studying some machine learning algorithms from &lt;a href=&#34;https://scikit-learn.org/stable/&#34;&gt;scikit-learn&lt;/a&gt; library as KNN, SVM, Gradient Boosting and Random Forests. I made some experiments with &lt;a href=&#34;https://networkx.org/&#34;&gt;NetworkX&lt;/a&gt; in order to understand how we can work with networks in computers. I am using &lt;a href=&#34;https://github.com/MLDroid/graph2vec_tf&#34;&gt;graph2vec&lt;/a&gt; framework for graph embedding.&lt;/p&gt;
+&lt;h3 id=&#34;advisors&#34;&gt;Advisors&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inf.ufpr.br/vignatti/&#34;&gt;André Luís Vignatti&lt;/a&gt;, PhD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inf.ufpr.br/amlima/&#34;&gt;Alana Marie de Lima&lt;/a&gt;, MSc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;experiments&#34;&gt;Experiments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/viniciusmioto/social_network_analysis&#34;&gt;Repository (GitHub)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADEGA: Análise de Dados Estatísticos da Grade Acadêmica</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;p&gt;This paper was published in Portuguese (BR). Análise de Dados Estatísticos da Grade Acadêmica (ADEGA).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
