@@ -3,7 +3,7 @@
   <channel>
     <title>Recent &amp; Upcoming Talks | Vinícius Mioto</title>
     <link>/event/</link>
-      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="./event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
