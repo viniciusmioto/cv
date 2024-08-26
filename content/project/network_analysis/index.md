@@ -12,7 +12,7 @@ I have been studying some machine learning algorithms from [scikit-learn](https:
 
 ### Advisors  
   * [André Luís Vignatti](https://www.inf.ufpr.br/vignatti/), PhD
-  * [Alana Marie de Lima](https://www.inf.ufpr.br/amlima/), MSc 
+  * [Alane Marie de Lima](https://www.inf.ufpr.br/amlima/), PhD 
 
 ### Experiments  
 
