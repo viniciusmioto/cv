@@ -8,7 +8,7 @@ last_name: Mioto
 
 # Status emoji
 status:
-  icon:  🦇
+  icon: 🇧🇷
 
 # Is this the primary user of the site?
 superuser: true
@@ -41,9 +41,9 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Data Science
-  - Social Network Analysis
+  - 🤖 Artificial Intelligence
+  - ⚒️ Data Mining
+  - 🔗 Network Science
 
 education:
   - area: BSc Computer Science

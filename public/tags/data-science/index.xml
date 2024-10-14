@@ -3,7 +3,7 @@
   <channel>
     <title>Data Science | Vinícius Mioto</title>
     <link>/tags/data-science/</link>
-      <atom:link href="./tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Science</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
@@ -22,7 +22,7 @@
 &lt;h3 id=&#34;advisors&#34;&gt;Advisors&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.inf.ufpr.br/vignatti/&#34;&gt;André Luís Vignatti&lt;/a&gt;, PhD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.inf.ufpr.br/amlima/&#34;&gt;Alana Marie de Lima&lt;/a&gt;, MSc&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inf.ufpr.br/amlima/&#34;&gt;Alane Marie de Lima&lt;/a&gt;, PhD&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;experiments&#34;&gt;Experiments&lt;/h3&gt;
 &lt;ul&gt;
