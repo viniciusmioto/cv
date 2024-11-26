@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: October 14, 2024 --><html lang="en-us" dir="ltr"
+<!-- Last Published: November 26, 2024 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head>
@@ -41,8 +41,7 @@
   
     
   
-  <meta name="description" content="This research project explores the validation, investigation, and improvement of the Xumes framework, which integrates Behavior-Driven Development (BDD) with Reinforcement Learning (RL) for video game testing.
-The study aims to advance game testing methodologies, particularly within the Godot Engine, by developing a comprehensive suite of tools and strategies that enhance the reliability and thoroughness of game quality assurance." />
+  <meta name="description" content="As the gaming industry grows, there is a greater need for high-quality, complex games, which requires efficient and scalable testing methods. This paper maps recording-based game test automation tools that record and replay user actions to make testing easier and reduce manual work." />
 
   
   <link rel="alternate" hreflang="en-us" href="../../project/automated_game_testing/" />
@@ -189,8 +188,7 @@ The study aims to advance game testing methodologies, particularly within the Go
   <meta property="og:site_name" content="Vinícius Mioto" />
   <meta property="og:url" content="/project/automated_game_testing/" />
   <meta property="og:title" content="Automated Game Testing | Vinícius Mioto" />
-  <meta property="og:description" content="This research project explores the validation, investigation, and improvement of the Xumes framework, which integrates Behavior-Driven Development (BDD) with Reinforcement Learning (RL) for video game testing.
-The study aims to advance game testing methodologies, particularly within the Godot Engine, by developing a comprehensive suite of tools and strategies that enhance the reliability and thoroughness of game quality assurance." /><meta property="og:image" content="/project/automated_game_testing/featured.png" />
+  <meta property="og:description" content="As the gaming industry grows, there is a greater need for high-quality, complex games, which requires efficient and scalable testing methods. This paper maps recording-based game test automation tools that record and replay user actions to make testing easier and reduce manual work." /><meta property="og:image" content="/project/automated_game_testing/featured.png" />
     <meta property="twitter:image" content="/project/automated_game_testing/featured.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -245,7 +243,7 @@ The study aims to advance game testing methodologies, particularly within the Go
       "url": "/media/icon_hu4611323744128253382.png"
     }
   },
-  "description": "This research project explores the validation, investigation, and improvement of the Xumes framework, which integrates Behavior-Driven Development (BDD) with Reinforcement Learning (RL) for video game testing.\nThe study aims to advance game testing methodologies, particularly within the Godot Engine, by developing a comprehensive suite of tools and strategies that enhance the reliability and thoroughness of game quality assurance."
+  "description": "As the gaming industry grows, there is a greater need for high-quality, complex games, which requires efficient and scalable testing methods. This paper maps recording-based game test automation tools that record and replay user actions to make testing easier and reduce manual work."
 }
 </script>
 
@@ -745,24 +743,6 @@ The study aims to advance game testing methodologies, particularly within the Go
                 class="hb-docs-link"
               >Advisor</a>
             </li>
-          <li>
-              <a
-                href="#key-contributions"
-                class="hb-docs-link"
-              >Key Contributions</a>
-            </li>
-          <li>
-              <a
-                href="#future-work"
-                class="hb-docs-link"
-              >Future Work</a>
-            </li>
-          <li>
-              <a
-                href="#resources"
-                class="hb-docs-link"
-              >Resources</a>
-            </li>
           </ul>
   
               
@@ -819,30 +799,6 @@ The study aims to advance game testing methodologies, particularly within the Go
   <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
       <li class="my-2 scroll-my-6 scroll-py-6">
         <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#advisor">Advisor</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#key-contributions">Key Contributions</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#1-xumes-framework-validation">1. Xumes Framework Validation</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#2-behavior-driven-development-bdd">2. Behavior-Driven Development (BDD)</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#3-reinforcement-learning-challenges">3. Reinforcement Learning Challenges</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#4-testing-complex-games">4. Testing Complex Games</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#5-comparison-of-automated-game-testing-tools">5. Comparison of Automated Game Testing Tools</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#future-work">Future Work</a>
-      </li>
-      <li class="my-2 scroll-my-6 scroll-py-6">
-        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#resources">Resources</a>
       </li></ul>
 
   
@@ -881,7 +837,7 @@ The study aims to advance game testing methodologies, particularly within the Go
         
         <span class="mx-1">·</span>
         <span class="mx-1">
-          2 min read
+          1 min read
         </span>
         
         </div>
@@ -926,43 +882,12 @@ The study aims to advance game testing methodologies, particularly within the Go
       
 
       <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-        <p>This research project explores the validation, investigation, and improvement of the Xumes framework, which integrates Behavior-Driven Development (BDD) with Reinforcement Learning (RL) for video game testing.</p>
-<p>The study aims to advance game testing methodologies, particularly within the Godot Engine, by developing a comprehensive suite of tools and strategies that enhance the reliability and thoroughness of game quality assurance.</p>
+        <p>As the gaming industry grows, there is a greater need for high-quality, complex games, which requires efficient and scalable testing methods. This paper maps recording-based game test automation tools that record and replay user actions to make testing easier and reduce manual work. We analyzed 20 tools mentioned in industry blogs and grouped them into game-specific and general-purpose categories. We also evaluated their compatibility, input simulation features, scripting options, and integration with game engines.</p>
+<p>Our findings indicate that general-purpose tools, the most frequently mentioned in blog sources, offer broad adaptability across platforms but are typically limited to user interface and visual testing. In contrast, game-specific tools provide deeper integration with game engines, supporting access to in-game mechanics and making them better suited for testing gameplay aspects. Our observations intend to conduct industry and academic efforts toward more reliable, scalable, and cost-effective approaches to automated game testing.</p>
 <h2 id="advisor">Advisor</h2>
 <ul>
 <li><a href="https://fabiopetrillo.com" target="_blank" rel="noopener">Fabio Petrillo, Ph.D.</a></li>
 </ul>
-<h2 id="key-contributions">Key Contributions</h2>
-<h3 id="1-xumes-framework-validation">1. <strong>Xumes Framework Validation</strong></h3>
-<ul>
-<li>The framework was tested in a practical context by developing a new game, <strong>Royal Knight</strong>, using the Godot Engine. This &ldquo;toy game&rdquo; facilitated various testing scenarios that highlighted the strengths and limitations of Xumes.</li>
-<li>Manual and automated testing were applied, with initial focus on validating test scripts manually before introducing RL agents for more advanced testing.</li>
-</ul>
-<h3 id="2-behavior-driven-development-bdd">2. <strong>Behavior-Driven Development (BDD)</strong></h3>
-<ul>
-<li>The study emphasizes the importance of BDD in creating clear and reusable test scenarios. Scenarios were written in Gherkin language, promoting better collaboration between developers, testers, and stakeholders.</li>
-</ul>
-<h3 id="3-reinforcement-learning-challenges">3. <strong>Reinforcement Learning Challenges</strong></h3>
-<ul>
-<li>While integrating RL into automated testing showed potential, several challenges were encountered, particularly in communication between the RL agents and the game engine. These challenges highlight the need for further improvements in the framework&rsquo;s core components.</li>
-</ul>
-<h3 id="4-testing-complex-games">4. <strong>Testing Complex Games</strong></h3>
-<ul>
-<li>The project also explored testing more complex 3D games, like <strong>Super Tux Party</strong>, revealing the necessity for automation in setting up pre-game conditions to streamline testing processes.</li>
-</ul>
-<h3 id="5-comparison-of-automated-game-testing-tools">5. <strong>Comparison of Automated Game Testing Tools</strong></h3>
-<ul>
-<li>The paper provides a comparison of different automated game testing tools across various game engines (Unity, Unreal, Godot), highlighting their features, supported platforms, and limitations.</li>
-</ul>
-<h2 id="future-work">Future Work</h2>
-<p>Future research will focus on enhancing Xumes&rsquo; communication capabilities, simplifying scripting processes, and extending its application to more complex game genres. Additionally, a comprehensive study of existing automated game testing tools will be conducted to evaluate their effectiveness and identify potential innovations in game testing methodologies.</p>
-<h2 id="resources">Resources</h2>
-<ul>
-<li><strong>Royal Knight Code</strong>: <a href="https://github.com/viniciusmioto/royal_knight" target="_blank" rel="noopener">GitHub Repository</a></li>
-<li><strong>Xumes Framework Documentation</strong>: <a href="https://xumes.readthedocs.io/en/latest/" target="_blank" rel="noopener">Read the Docs</a></li>
-</ul>
-<hr>
-<p>This summary provides a concise overview of the paper&rsquo;s contents for the README file, focusing on key aspects and future directions.</p>
 
       </div>
 

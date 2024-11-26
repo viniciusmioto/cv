@@ -6,16 +6,15 @@ tags:
   - Data Science
 ---
 
-I started this undergraduate research project in 2021 by studying the paper ["Recognizing Power-law Graphs by Machine Learning Algorithms using a Reduced Set of Structural Features"](http://www.inf.ufpr.br/amlima/eniac2019.pdf) written by [Alane Marie de Lima](https://www.inf.ufpr.br/amlima/), [André Luis Vignatti](https://www.inf.ufpr.br/vignatti/) and [Murilo Vicente Gonçalves da Silva](https://www.inf.ufpr.br/murilo/).
+I started this undergraduate research project in 2021 by studying the paper ["Recognizing Power-law Graphs by Machine Learning Algorithms using a Reduced Set of Structural Features"](https://doi.org/10.5753/eniac.2019.9319), the authors [Alane Marie de Lima](https://www.inf.ufpr.br/amlima/) and [André Luis Vignatti](https://www.inf.ufpr.br/vignatti/) were my advisors.
 
-I have been studying some machine learning algorithms from [scikit-learn](https://scikit-learn.org/stable/) library as KNN, SVM, Gradient Boosting and Random Forests. I made some experiments with [NetworkX](https://networkx.org/) in order to understand how we can work with networks in computers. I am using [graph2vec](https://github.com/MLDroid/graph2vec_tf) framework for graph embedding.
+Now, as my final project for the BSc. in CS, I am researching about [Representation Learning for Frequent Subgraph Mining](https://doi.org/10.48550/arXiv.2402.14367) paper. The motivation for this study came from classes of the [ML with Graphs course](https://web.stanford.edu/class/cs224w/) offered by Stanford University. 
 
 ### Advisors  
   * [André Luís Vignatti](https://www.inf.ufpr.br/vignatti/), PhD
-  * [Alane Marie de Lima](https://www.inf.ufpr.br/amlima/), PhD 
 
 ### Experiments  
 
-* [Repository (GitHub)](https://github.com/viniciusmioto/social_network_analysis)
+* [Repository (GitHub)](https://github.com/viniciusmioto/social_networks_analysis)
 
 

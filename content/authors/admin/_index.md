@@ -43,13 +43,14 @@ profiles:
 interests:
   - 🤖 Artificial Intelligence
   - ⚒️ Data Mining
-  - 🔗 Network Science
+  - 🌐 Graph Neural Networks
+  - 🕸️ Network Science
 
 education:
   - area: BSc Computer Science
     institution: Universidade Federal do Paraná
     date_start: 2020-01-01
-    date_end: 2025-12-31
+    date_end: 2025-07-31
   
   - area: Information Technology
     institution: Instituto Federal do Paraná
@@ -57,6 +58,12 @@ education:
     date_end: 2019-12-31
 
 work:
+  - position: Business Intelligence Intern
+    company_name: Driva
+    company_url: 'https://www.driva.io/'
+    date_start: 2024-11-11
+    date_end: 
+
   - position: Research Intern
     company_name: École de Technologie Supérieure
     company_url: 'https://www.etsmtl.ca/'
@@ -66,8 +73,14 @@ work:
   - position: Business Intelligence Intern
     company_name: Bradesco Bank
     company_url: 'https://www.bradesco.com.br/'
-    date_start: 2023-12-01
+    date_start: 2023-11-01
     date_end: 2024-05-01
+
+  - position: Research Intern
+    company_name: C3SL
+    company_url: 'https://www.c3sl.ufpr.br/'
+    date_start: 2023-01-01
+    date_end: 2024-11-01
 
 
 # Awards.
@@ -87,4 +100,4 @@ work:
 
 ## About Me
 
-Hello, World! I am Vinícius Mioto, a Computer Science student at the Universidade Federal do Paraná (UFPR) in Curitiba - Brazil, where I'm currently working on my final project in Social Network Analysis. I am also researching Automated Game Testing following my internship at the École de Technologie Supérieure (ÉTS) in Montreal - Canada.
+Hello, World! I am Vinícius Mioto, a Computer Science student at the [Universidade Federal do Paraná (UFPR)](https://ufpr.br) in Curitiba - Brazil, where I'm currently working on my final project in Complex Network Science. I am also working as a Business Intelligence intern at [Driva](https://www.driva.io).

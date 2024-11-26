@@ -17,16 +17,15 @@
       <link>/project/network_analysis/</link>
       <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/project/network_analysis/</guid>
-      <description>&lt;p&gt;I started this undergraduate research project in 2021 by studying the paper &lt;a href=&#34;http://www.inf.ufpr.br/amlima/eniac2019.pdf&#34;&gt;&amp;ldquo;Recognizing Power-law Graphs by Machine Learning Algorithms using a Reduced Set of Structural Features&amp;rdquo;&lt;/a&gt; written by &lt;a href=&#34;https://www.inf.ufpr.br/amlima/&#34;&gt;Alane Marie de Lima&lt;/a&gt;, &lt;a href=&#34;https://www.inf.ufpr.br/vignatti/&#34;&gt;André Luis Vignatti&lt;/a&gt; and &lt;a href=&#34;https://www.inf.ufpr.br/murilo/&#34;&gt;Murilo Vicente Gonçalves da Silva&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I have been studying some machine learning algorithms from &lt;a href=&#34;https://scikit-learn.org/stable/&#34;&gt;scikit-learn&lt;/a&gt; library as KNN, SVM, Gradient Boosting and Random Forests. I made some experiments with &lt;a href=&#34;https://networkx.org/&#34;&gt;NetworkX&lt;/a&gt; in order to understand how we can work with networks in computers. I am using &lt;a href=&#34;https://github.com/MLDroid/graph2vec_tf&#34;&gt;graph2vec&lt;/a&gt; framework for graph embedding.&lt;/p&gt;
+      <description>&lt;p&gt;I started this undergraduate research project in 2021 by studying the paper &lt;a href=&#34;https://doi.org/10.5753/eniac.2019.9319&#34;&gt;&amp;ldquo;Recognizing Power-law Graphs by Machine Learning Algorithms using a Reduced Set of Structural Features&amp;rdquo;&lt;/a&gt;, the authors &lt;a href=&#34;https://www.inf.ufpr.br/amlima/&#34;&gt;Alane Marie de Lima&lt;/a&gt; and &lt;a href=&#34;https://www.inf.ufpr.br/vignatti/&#34;&gt;André Luis Vignatti&lt;/a&gt; were my advisors.&lt;/p&gt;
+&lt;p&gt;Now, as my final project for the BSc. in CS, I am researching about &lt;a href=&#34;https://doi.org/10.48550/arXiv.2402.14367&#34;&gt;Representation Learning for Frequent Subgraph Mining&lt;/a&gt; paper. The motivation for this study came from classes of the &lt;a href=&#34;https://web.stanford.edu/class/cs224w/&#34;&gt;ML with Graphs course&lt;/a&gt; offered by Stanford University.&lt;/p&gt;
 &lt;h3 id=&#34;advisors&#34;&gt;Advisors&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.inf.ufpr.br/vignatti/&#34;&gt;André Luís Vignatti&lt;/a&gt;, PhD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.inf.ufpr.br/amlima/&#34;&gt;Alane Marie de Lima&lt;/a&gt;, PhD&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;experiments&#34;&gt;Experiments&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/viniciusmioto/social_network_analysis&#34;&gt;Repository (GitHub)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/viniciusmioto/social_networks_analysis&#34;&gt;Repository (GitHub)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
