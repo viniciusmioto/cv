@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence | Vinícius Mioto</title>
-    <link>/tags/artificial-intelligence/</link>
-      <atom:link href="/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tags/artificial-intelligence/</link>
+      <atom:link href="//localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial Intelligence</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu10762989417876225641.png</url>
+      <url>//localhost:1313/media/icon_hu10762989417876225641.png</url>
       <title>Artificial Intelligence</title>
-      <link>/tags/artificial-intelligence/</link>
+      <link>//localhost:1313/tags/artificial-intelligence/</link>
     </image>
     
     <item>
       <title>Automated Game Testing</title>
-      <link>/project/automated_game_testing/</link>
+      <link>//localhost:1313/project/automated_game_testing/</link>
       <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/project/automated_game_testing/</guid>
+      <guid>//localhost:1313/project/automated_game_testing/</guid>
       <description>&lt;p&gt;As the gaming industry grows, there is a greater need for high-quality, complex games, which requires efficient and scalable testing methods. This paper maps recording-based game test automation tools that record and replay user actions to make testing easier and reduce manual work. We analyzed 20 tools mentioned in industry blogs and grouped them into game-specific and general-purpose categories. We also evaluated their compatibility, input simulation features, scripting options, and integration with game engines.&lt;/p&gt;
 &lt;p&gt;Our findings indicate that general-purpose tools, the most frequently mentioned in blog sources, offer broad adaptability across platforms but are typically limited to user interface and visual testing. In contrast, game-specific tools provide deeper integration with game engines, supporting access to in-game mechanics and making them better suited for testing gameplay aspects. Our observations intend to conduct industry and academic efforts toward more reliable, scalable, and cost-effective approaches to automated game testing.&lt;/p&gt;
 &lt;h2 id=&#34;advisor&#34;&gt;Advisor&lt;/h2&gt;

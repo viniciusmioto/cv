@@ -47,7 +47,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Revista ComInG - Communications and Innovations Gazette*'
-publication_short: In *ICW*
+publication_short: In *CONPET2021*
 
 abstract: This paper describes the ADEGA system (Academic Grid Statistical Data Analysis). The academics management systems, applications used by educational institutions to monitor students academically, usually don’t provide greater functionality than a repository of student grades and attendance. Therefore, ADEGA aims to assist in the management of higher education institution’s course coordination, it uses the history of grades and attendance to provide data and graphics with relevant information that don’t usually are included in other systems, like a risk of academic retirement’s list, a comparative chart of failures by subjects, among others.
 

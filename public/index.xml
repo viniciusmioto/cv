@@ -34,16 +34,19 @@
     </item>
     
     <item>
-      <title>Automated Game Testing</title>
-      <link>/project/automated_game_testing/</link>
-      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/project/automated_game_testing/</guid>
-      <description>&lt;p&gt;As the gaming industry grows, there is a greater need for high-quality, complex games, which requires efficient and scalable testing methods. This paper maps recording-based game test automation tools that record and replay user actions to make testing easier and reduce manual work. We analyzed 20 tools mentioned in industry blogs and grouped them into game-specific and general-purpose categories. We also evaluated their compatibility, input simulation features, scripting options, and integration with game engines.&lt;/p&gt;
-&lt;p&gt;Our findings indicate that general-purpose tools, the most frequently mentioned in blog sources, offer broad adaptability across platforms but are typically limited to user interface and visual testing. In contrast, game-specific tools provide deeper integration with game engines, supporting access to in-game mechanics and making them better suited for testing gameplay aspects. Our observations intend to conduct industry and academic efforts toward more reliable, scalable, and cost-effective approaches to automated game testing.&lt;/p&gt;
-&lt;h2 id=&#34;advisor&#34;&gt;Advisor&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://fabiopetrillo.com&#34;&gt;Fabio Petrillo, Ph.D.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <title>Beyond Boundaries: Collaboration Networks and Research Output in Brazilian Computer Science</title>
+      <link>/publication/brasnam2025/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/brasnam2025/</guid>
+      <description>&lt;!-- To be submitted for BrasNAM2025. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Mapping of Recording-based Game Test Automation Tools</title>
+      <link>/publication/gas2025/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/gas2025/</guid>
+      <description>&lt;p&gt;Pre-print for GAS2025.&lt;/p&gt;
 </description>
     </item>
     
@@ -75,9 +78,9 @@
     
     <item>
       <title>ADEGA: Análise de Dados Estatísticos da Grade Acadêmica</title>
-      <link>/publication/conference-paper/</link>
+      <link>/publication/conpet2021/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <guid>/publication/conpet2021/</guid>
       <description>&lt;p&gt;This paper was published in Portuguese (BR). Análise de Dados Estatísticos da Grade Acadêmica (ADEGA).&lt;/p&gt;
 </description>
     </item>

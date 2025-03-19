@@ -58,7 +58,7 @@ education:
     date_end: 2019-12-31
 
 work:
-  - position: Business Intelligence Intern
+  - position: Data Scientist
     company_name: Driva
     company_url: 'https://www.driva.io/'
     date_start: 2024-11-11
@@ -100,4 +100,4 @@ work:
 
 ## About Me
 
-Hello, World! I am Vinícius Mioto, a Computer Science student at the [Universidade Federal do Paraná (UFPR)](https://ufpr.br) in Curitiba - Brazil, where I'm currently working on my final project in Complex Network Science. I am also working as a Business Intelligence intern at [Driva](https://www.driva.io).
+Hello, World! I am Vinícius Mioto, a Computer Science student at the [Universidade Federal do Paraná (UFPR)](https://ufpr.br) in Curitiba - Brazil, where I'm currently working on my final project in Network Science. I am also working as a Data Scientist at [Driva](https://www.driva.io).

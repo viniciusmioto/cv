@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu10762989417876225641.png</url>
       <title>Publications</title>
@@ -13,10 +13,27 @@
     </image>
     
     <item>
+      <title>Beyond Boundaries: Collaboration Networks and Research Output in Brazilian Computer Science</title>
+      <link>/publication/brasnam2025/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/brasnam2025/</guid>
+      <description>&lt;!-- To be submitted for BrasNAM2025. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Mapping of Recording-based Game Test Automation Tools</title>
+      <link>/publication/gas2025/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/gas2025/</guid>
+      <description>&lt;p&gt;Pre-print for GAS2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ADEGA: Análise de Dados Estatísticos da Grade Acadêmica</title>
-      <link>/publication/conference-paper/</link>
+      <link>/publication/conpet2021/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <guid>/publication/conpet2021/</guid>
       <description>&lt;p&gt;This paper was published in Portuguese (BR). Análise de Dados Estatísticos da Grade Acadêmica (ADEGA).&lt;/p&gt;
 </description>
     </item>
