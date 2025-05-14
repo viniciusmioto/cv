@@ -42,9 +42,10 @@ profiles:
 
 interests:
   - 🤖 Artificial Intelligence
-  - ⚒️ Data Mining
-  - 🌐 Graph Neural Networks
+  - 📊 Data Science & Engineering
   - 🕸️ Network Science
+  - 💻 Software Engineering
+
 
 education:
   - area: BSc Computer Science

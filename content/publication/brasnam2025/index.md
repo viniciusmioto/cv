@@ -25,8 +25,8 @@ publishDate: '2021-11-17T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '*To be submitted*'
-publication_short: -> **To be submitted** # In *ACM*
+publication: '*Accepted for the XIV Brazilian Workshop on Social Network Analysis and Mining (BraSNAM2025)*'
+publication_short: -> *Accepted for BraSNAM2025* # In *ACM*
 
 abstract: This study examines collaborative dynamics within Brazilian computer science research through network analysis and bibliometric methods. Using OpenAlex data spanning 2015–2024, we analyze publication trends, citation metrics, and co-authorship networks to understand international engagement patterns and subfield collaboration differences. Our findings reveal that while Brazil ranks 12th globally in computer science output, approximately 75% of its publications involve exclusively domestic partnerships, with significant variation across subfields. Network analyses identify distinct clustering patterns organized by subfield, with influential bridging researchers facilitating knowledge transfer across disciplinary boundaries. The United States emerges as Brazil’s primary international collaborator across all subfields, while the second major collaborator vary for each subdield. Our methodological framework provides a foundation for developing evidence-based strategies to optimize research investment and strengthen Brazil’s position in the global scientific community.
 
@@ -75,4 +75,4 @@ projects: []
 slides: ""
 ---
 
-<!-- To be submitted for BrasNAM2025. -->
+Accepted for BrasNAM2025, co-hosted by CSBC 2025.
