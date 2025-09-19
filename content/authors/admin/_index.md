@@ -42,7 +42,7 @@ profiles:
 
 interests:
   - 🤖 Artificial Intelligence
-  - 📊 Data Science & Engineering
+  - 📊 Data Science
   - 💻 Software Engineering
   - 🏙️ Smart Cities & IoT
 
