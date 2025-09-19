@@ -65,7 +65,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './publication/conference-paper/adega.pdf'
+url_pdf: 'https://periodicos.ufsm.br/coming/article/view/67933/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

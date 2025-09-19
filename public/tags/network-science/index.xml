@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Science | Vinícius Mioto</title>
+    <link>//localhost:1313/tags/network-science/</link>
+      <atom:link href="//localhost:1313/tags/network-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu10762989417876225641.png</url>
+      <title>Network Science</title>
+      <link>//localhost:1313/tags/network-science/</link>
+    </image>
+    
+    <item>
+      <title>Beyond Boundaries: Collaboration Networks and Research Output in Brazilian Computer Science</title>
+      <link>//localhost:1313/publication/brasnam2025/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/brasnam2025/</guid>
+      <description>&lt;p&gt;BrasNAM2025, co-hosted by CSBC 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

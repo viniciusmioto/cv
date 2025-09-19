@@ -8,7 +8,7 @@ last_name: Mioto
 
 # Status emoji
 status:
-  icon: 🇧🇷
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,11 +17,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Computer Science Student
+role: Master's Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Universidade Federal do Paraná
+  - name: Concordia University Montreal 🇨🇦
     url: https://www.ufpr.br/
 
 # Social network links
@@ -43,20 +43,25 @@ profiles:
 interests:
   - 🤖 Artificial Intelligence
   - 📊 Data Science & Engineering
-  - 🕸️ Network Science
   - 💻 Software Engineering
+  - 🏙️ Smart Cities & IoT
 
 
 education:
+  - area: MSc Computer Science
+    institution: Concordia University Montreal
+    date_start: 2020-01-01
+    date_end: 2025-07-31
+
   - area: BSc Computer Science
     institution: Universidade Federal do Paraná
     date_start: 2020-01-01
     date_end: 2025-07-31
   
-  - area: Information Technology
-    institution: Instituto Federal do Paraná
-    date_start: 2016-01-01
-    date_end: 2019-12-31
+#  - area: Information Technology
+#    institution: Instituto Federal do Paraná
+#    date_start: 2016-01-01
+#    date_end: 2019-12-31
 
 work:
   - position: Data Scientist
@@ -101,4 +106,4 @@ work:
 
 ## About Me
 
-Hello, World! I am Vinícius Mioto, a Computer Science student at the [Universidade Federal do Paraná (UFPR)](https://ufpr.br) in Curitiba - Brazil, where I'm currently working on my final project in Network Science. I am also working as a Data Scientist at [Driva](https://www.driva.io).
+Hello, World! I am Vinícius Mioto, a Master's student in Computer Science at Concordia University, Montreal (Canada).

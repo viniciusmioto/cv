@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2025-07-29T00:00:00Z'
-doi: ''
+doi: '10.5753/brasnam.2025.8329'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-11-17T00:00:00Z'
@@ -26,7 +26,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Accepted for the XIV Brazilian Workshop on Social Network Analysis and Mining (BraSNAM2025)*'
-publication_short: -> *Accepted for BraSNAM2025* # In *ACM*
+publication_short: In *BraSNAM2025* # In *ACM*
 
 abstract: This study examines collaborative dynamics within Brazilian computer science research through network analysis and bibliometric methods. Using OpenAlex data spanning 2015–2024, we analyze publication trends, citation metrics, and co-authorship networks to understand international engagement patterns and subfield collaboration differences. Our findings reveal that while Brazil ranks 12th globally in computer science output, approximately 75% of its publications involve exclusively domestic partnerships, with significant variation across subfields. Network analyses identify distinct clustering patterns organized by subfield, with influential bridging researchers facilitating knowledge transfer across disciplinary boundaries. The United States emerges as Brazil’s primary international collaborator across all subfields, while the second major collaborator vary for each subdield. Our methodological framework provides a foundation for developing evidence-based strategies to optimize research investment and strengthen Brazil’s position in the global scientific community.
 
@@ -39,12 +39,8 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: CSBC BrasNAM2025
-#   url: https://conf.researchr.org/details/icse-2025/gas-2025-papers/3/A-Mapping-of-Recording-based-Game-Test-Automation-Tools
 
-url_pdf: './publication/brasnam2025/beyond_boundaries.pdf'
+url_pdf: 'https://sol.sbc.org.br/index.php/brasnam/article/view/36367/36154'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -75,4 +71,4 @@ projects: []
 slides: ""
 ---
 
-Accepted for BrasNAM2025, co-hosted by CSBC 2025.
+BrasNAM2025, co-hosted by CSBC 2025.

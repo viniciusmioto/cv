@@ -42,12 +42,12 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 
-url_pdf: './publication/gas2025/game_testing.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: './publication/gas2025/gas2025_slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
