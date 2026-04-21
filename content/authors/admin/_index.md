@@ -22,7 +22,7 @@ role: Master's Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Concordia University Montreal 🇨🇦
-    url: https://www.ufpr.br/
+    url: https://www.concordia.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,8 +50,8 @@ interests:
 education:
   - area: MSc Computer Science
     institution: Concordia University Montreal
-    date_start: 2020-01-01
-    date_end: 2025-07-31
+    date_start: 2026-05-01
+    date_end: 2028-07-31
 
   - area: BSc Computer Science
     institution: Universidade Federal do Paraná
