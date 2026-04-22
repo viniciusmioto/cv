@@ -35,7 +35,9 @@ author_notes:
   - 'Equal contribution'
 
 date: '2021-11-17T00:00:00Z'
-doi: '10.5902/2448190467933'
+hugoblox:
+  ids:
+    doi: '10.5902/2448190467933'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-11-17T00:00:00Z'
@@ -65,14 +67,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://periodicos.ufsm.br/coming/article/view/67933/pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: 'https://www.youtube.com/watch?v=rHEr_MmOqfw'
+links:
+  - type: pdf
+    url: 'https://periodicos.ufsm.br/coming/article/view/67933/pdf'
+  - type: video
+    url: 'https://www.youtube.com/watch?v=rHEr_MmOqfw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

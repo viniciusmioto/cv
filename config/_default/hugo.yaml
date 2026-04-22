@@ -47,10 +47,16 @@ taxonomies:
   author: authors
   tag: tags
   publication_type: publication_types
+ignoreLogs:
+  - callout-deprecated
 markup:
   _merge: deep
   highlight:
     lineNos: false
+  goldmark:
+    renderHooks:
+      link:
+        useEmbedded: fallback
 security:
   _merge: deep
 sitemap:

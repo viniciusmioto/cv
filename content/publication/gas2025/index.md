@@ -14,7 +14,9 @@ author_notes:
   - 'Equal contribution'
 
 date: '2025-04-29T00:00:00Z'
-doi: '10.1109/GAS66647.2025.00006'
+hugoblox:
+  ids:
+    doi: '10.1109/GAS66647.2025.00006'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-11-17T00:00:00Z'
@@ -39,17 +41,7 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-links:
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

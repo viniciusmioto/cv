@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Vinicius Mioto</title>
+    <link>//localhost:1313/tags/data-science/</link>
+      <atom:link href="//localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu_dfdc63bef03fb289.png</url>
+      <title>Data Science</title>
+      <link>//localhost:1313/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Social Network Analysis</title>
+      <link>//localhost:1313/project/network_analysis/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/network_analysis/</guid>
+      <description>&lt;p&gt;I started this undergraduate research project in 2021 by studying the paper 
+, the authors 
+ and 
+ were my advisors.&lt;/p&gt;
+&lt;p&gt;Now, as my final project for the BSc. in CS, I am researching about 
+ paper. The motivation for this study came from classes of the 
+ offered by Stanford University.&lt;/p&gt;
+&lt;h3 id=&#34;advisors&#34;&gt;Advisors&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+, PhD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;experiments&#34;&gt;Experiments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ADEGA: Análise de Dados Estatísticos da Grade Acadêmica</title>
+      <link>//localhost:1313/publication/conpet2021/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/conpet2021/</guid>
+      <description>&lt;p&gt;This paper was published in Portuguese (BR). Análise de Dados Estatísticos da Grade Acadêmica (ADEGA).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
