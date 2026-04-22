@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Vinícius Mioto
+title: Vinicius Mioto
 
 # Full name (for SEO)
-first_name: Vinícius
+first_name: Vinicius
 last_name: Mioto
 
 # Status emoji
@@ -106,4 +106,4 @@ work:
 
 ## About Me
 
-Hello, World! I am Vinícius Mioto, a Master's student in Computer Science at Concordia University, Montreal (Canada).
+Hello, World! I am Vinicius Mioto, a Master's student in Computer Science at Concordia University, Montreal (Canada).

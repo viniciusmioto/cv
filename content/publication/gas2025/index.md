@@ -6,7 +6,7 @@ title: 'A Mapping of Recording-based Game Test Automation Tools'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Vinícius Mioto
+  - Vinicius Mioto
   - Fabio Petrillo
 
 # Author notes (optional)

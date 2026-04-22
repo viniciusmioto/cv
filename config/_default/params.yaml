@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'UFPR'
-    description: 'Vinícius Mioto'
+    description: 'Vinicius Mioto'
     twitter: 'vsmioto'
   analytics:
     google_analytics: ''
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Vinícius Mioto"
+      text: "Vinicius Mioto"
 
 # Site footer
 footer:

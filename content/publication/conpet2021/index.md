@@ -28,7 +28,7 @@ authors:
   - Odair Mario Ditkun Junior
   - Pedro Pasqualini de Andrade
   - Tiago Serique Valadares
-  - Vinícius Mioto
+  - Vinicius Mioto
 
 # Author notes (optional)
 author_notes:
