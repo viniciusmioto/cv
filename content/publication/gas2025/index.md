@@ -9,10 +9,6 @@ authors:
   - Vinicius Mioto
   - Fabio Petrillo
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-
 date: '2025-04-29T00:00:00Z'
 hugoblox:
   ids:

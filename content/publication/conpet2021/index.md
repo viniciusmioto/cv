@@ -20,19 +20,19 @@ title: 'ADEGA: Análise de Dados Estatísticos da Grade Acadêmica'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ana Paula Andrade Sodré
-  - Bruno Henrique Meyer
-  - Bruno Müller Junior
+  - Ana P. A. Sodré
+  - Bruno H. Meyer
+  - Bruno M. Junior
   - Henrique Margotte
-  - Matheus Paolini de Miranda
-  - Odair Mario Ditkun Junior
-  - Pedro Pasqualini de Andrade
-  - Tiago Serique Valadares
+  - Matheus P. de Miranda
+  - Odair M. D. Junior
+  - Pedro P. de Andrade
+  - Tiago S. Valadares
   - Vinicius Mioto
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
 
 date: '2021-11-17T00:00:00Z'
 hugoblox:

@@ -10,8 +10,6 @@ authors:
   - André Vignatti
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
 
 date: '2025-07-29T00:00:00Z'
 hugoblox:

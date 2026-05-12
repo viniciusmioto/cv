@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master's Student
+role: MSc Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -106,4 +106,4 @@ work:
 
 ## About Me
 
-Hello, World! I am Vinicius Mioto, a Master's student in Computer Science at Concordia University, Montreal (Canada).
+Hello, World! I am Vinicius Mioto, a Master's student in Computer Science at Concordia University, Montreal (Canada). I am a member of the [Ptidej Team](https://www.ptidej.net/).
